@@ -1,5 +1,5 @@
-frist_name = "suvijack"
+first_name = "suvijack"
 last_name = "budsayawit"
-whole_name = frist_name +" " +last_name
+whole_name = first_name +" " +last_name
 
 print(whole_name)
