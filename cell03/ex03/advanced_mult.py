@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 if len(input().split()) > 1:
     print("none")
 else:
