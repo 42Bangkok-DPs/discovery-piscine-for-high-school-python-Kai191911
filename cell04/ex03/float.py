@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 num = float(input("Give me a number :"))
 num1 = round(num,)
 ex = num1-num
