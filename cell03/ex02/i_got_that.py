@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 stop  = input("What you gota say? :")
 while True :
     if stop == "STOP" :
